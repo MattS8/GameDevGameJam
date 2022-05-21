@@ -2,15 +2,15 @@
 .vs/
 
 # Starter Content
-Contnet/StarterContent/
+Contnet/StarterContent/*
 
 # External Actors
-Content/__ExternalActors__/
-Content/__ExternalObjects__/
+Content/__ExternalActors__/*
+Content/__ExternalObjects__/*
 
 # Mannequin Characters
-Content/Characters/Mannequin_UE4
-Content/Characters/Mannequins
+Content/Characters/Mannequin_UE4/*
+Content/Characters/Mannequins/*
 
 # LevelPrototyping
 Content/LevelPrototyping/
